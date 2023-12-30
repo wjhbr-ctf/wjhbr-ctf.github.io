@@ -1,5 +1,5 @@
 # <font size="8">Exploring cybersecurity fields and learning skills along the way</font>
-<script>alert(xss)</script>
+# <script><font>alert(xss)</script></font>
 <details>
 <summary><font size="6" color="#ff0000">ctf writeups</font></summary>
 
