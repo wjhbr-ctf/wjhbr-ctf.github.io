@@ -1,13 +1,9 @@
-header {
-  display: none;
-}
-
-# <font size="10">Exploring cybersecurity fields and learning skills. </font>
+# <font size="8">Exploring cybersecurity fields and learning skills along the way</font>
 
 <details>
-<summary><font size="9" color="blue">ctf writeups</font></summary>
+<summary><font size="6" color="#ff0000">Red Text</span>">ctf writeups</font></summary>
 
-<font size="7">
+<font size="4">
 Lorem ipsum dolor sit amet.
 </font>
 
