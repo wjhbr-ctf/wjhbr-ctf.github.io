@@ -1,3 +1,7 @@
+header {
+  display: none;
+}
+
 # <font size="5">Lorem ipsum</font>
 
 <details>
