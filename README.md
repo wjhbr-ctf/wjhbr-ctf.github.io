@@ -1,8 +1,14 @@
-# Lorem ipsum
+# <font size="5">Lorem ipsum</font>
 
 <details>
-<summary><font color="blue">ctf writeups</font></summary>
+<summary><font size="5" color="blue">All writeups</font></summary>
 
-Lorem ipsum dolor sit amet.
+<font size="4">
+  
+a. Item A  
+b. Item B  
+c. Item C  
+d. Item D
+</font>
 
 </details>
